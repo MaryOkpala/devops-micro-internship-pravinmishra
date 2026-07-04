@@ -48,42 +48,24 @@ Write each truth in this format:
 
 **Evidence from my life:** 
 ---
+### Truth 1
 
-## Truth #1
+**Truth:** Consistency produces better results than motivation.
 
-### Truth
+**Evidence from my life:** Whenever I stayed consistent with learning, whether during my Master's degree, learning Python, or starting my DevOps journey, I made steady progress. Waiting until I felt motivated often delayed my progress, but showing up consistently helped me learn and improve.
 
-Sucess is consistency and discipline
+### Truth 2
 
-### Evidence from my life
+**Truth:** Understanding concepts deeply leads to better long-term learning than memorizing information.
 
-Studying: I noticed the more I studied, the more higher my chance of suceeding by acquiring more knowledge. This has happened in different areas of my life, academically, spiritually, finacially and career wise
+**Evidence from my life:** I noticed that I remember topics much better when I understand the reason behind them and relate them to real-life examples. This approach has helped me learn networking concepts and other technical subjects with greater confidence.
 
----
+### Truth 3
 
-## Truth #2
+**Truth:** Taking action creates opportunities that thinking alone cannot.
 
-### Truth
+**Evidence from my life:** Applying for opportunities, enrolling in courses, publishing my learning journey, and completing practical assignments have taught me far more than simply planning. Every meaningful opportunity I have had started because I took action, even when I didn't feel completely ready.
 
-God is real 
-
-### Evidence from my life
-
-This one is a spiritual experience, I have encountered God's goodness too many times in my life
-that I would require a whole book to write about those experience. He has been good to me, faithful and a loving father.
----
-
-## Truth #3
-
-### Truth
-
-Relationships are never 50/50 at all times
-
-### Evidence from my life
-
-Their are phases in my life where I have been down and my frinds have been extremly supportive and likewise, so i believe relationships are nvere 50/50 at all times, sometimes 30/70, 20/80, 10/90 or even 100/0.
-
----
 
 # Assignment 3. What does your 2.0 version look like?
 
