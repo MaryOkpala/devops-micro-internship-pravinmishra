@@ -16,11 +16,7 @@ In this assignment, you will create and customize a `CLAUDE.md` file for your pr
 
 Capture Claude’s response before `CLAUDE.md` exists in the project to establish a baseline behavior.
 
-### Evidence
-
-#### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
-
-Add your screenshot here.
+![W2A1T1](screenshots/W2A2T1.png)
 
 ---
 
@@ -30,11 +26,7 @@ Add your screenshot here.
 
 Generate an initial `CLAUDE.md` file using the `/init` command and review the auto-generated content.
 
-### Evidence
-
-#### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
-
-Add your screenshot here.
+### Forgot to get this before editing file.
 
 ---
 
@@ -44,11 +36,7 @@ Add your screenshot here.
 
 Update the generated `CLAUDE.md` file by adding project-specific instructions across all required sections.
 
-### Evidence
-
-#### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
-
-Add your screenshot here.
+![W2A1T1](screenshots/W2A2T3.png)
 
 ---
 
@@ -58,19 +46,13 @@ Add your screenshot here.
 
 Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a new session and comparing responses before and after context is applied.
 
-### Evidence
-
-#### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
-
-Add your screenshot here.
+![W2A1T1](screenshots/W2A2T4.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
-
----
+![W2A1T1](screenshots/W2A2T5.png)
 
 # Task 5 — Commit and push your changes to your fork in GitHub
 
@@ -78,11 +60,7 @@ Add your screenshot here.
 
 Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instructions are version-controlled.
 
-### Evidence
-
-#### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
-
-Add your screenshot here.
+![W2A1T1](screenshots/W2A2T6.png)
 
 ---
 
@@ -98,7 +76,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/MaryOkpala/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
