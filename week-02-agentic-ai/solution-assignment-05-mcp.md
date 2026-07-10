@@ -15,12 +15,7 @@ In this assignment, you will connect Claude Code to external systems using MCP (
 ## Goal
 
 Generate a GitHub Personal Access Token (PAT) that will be used for MCP authentication.
-
-### Evidence
-
-#### Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
-
-Add your screenshot here.
+![W2A4T1](screenshots/W2A5T1.png)
 
 ---
 
@@ -29,12 +24,7 @@ Add your screenshot here.
 ## Goal
 
 Create and configure the `.mcp.json` file to define the GitHub MCP server.
-
-### Evidence
-
-#### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
-
-Add your screenshot here.
+![W2A4T1](screenshots/W2A5T2.png)
 
 ---
 
@@ -43,13 +33,7 @@ Add your screenshot here.
 ## Goal
 
 Store your GitHub token securely in `.claude/settings.local.json` and ensure it is not committed to version control.
-
-### Evidence
-
-#### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
-
-Add your screenshot here.
-
+![W2A4T1](screenshots/W2A5T3.png)
 ---
 
 # Task 4 — Verify the Connection with /mcp
@@ -57,13 +41,7 @@ Add your screenshot here.
 ## Goal
 
 Confirm that the GitHub MCP server is successfully connected inside Claude Code.
-
-### Evidence
-
-#### Screenshot 4 — `/mcp` output showing `github: connected`
-
-Add your screenshot here.
-
+![W2A4T1](screenshots/W2A5T4.png)
 ---
 
 # Task 5 — Run a Live GitHub Query
@@ -71,12 +49,8 @@ Add your screenshot here.
 ## Goal
 
 Verify MCP functionality by retrieving real-time data from your GitHub account using Claude Code.
-
-### Evidence
-
-#### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
-
-Add your screenshot here.
+![W2A4T1](screenshots/W2A5T5.png)
+![W2A4T1](screenshots/W2A5T5B.png)
 
 ---
 
@@ -92,9 +66,8 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/MaryOkpala/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
