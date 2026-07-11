@@ -42,11 +42,7 @@ You can publish your blog on:
 
 ---
 
-### Evidence
-
-#### Screenshot 1 — Blog published and visible
-
-Add your screenshot here.
+![W2A6T1](screenshots/W2A8T1.png)
 
 ---
 
@@ -54,7 +50,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@okpalachiamakamary/reflection-week-2-a5bd39a0bd3f?sharedUserId=okpalachiamakamary`
 
 ---
 
@@ -124,15 +120,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
 * [ ] LinkedIn post created
 * [ ] Required P.S. line included
 * [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
+* [✅] Blog link added
 * [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Screenshots added to GitHub repo
 
 ---
 

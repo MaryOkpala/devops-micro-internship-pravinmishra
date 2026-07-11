@@ -57,7 +57,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/MaryOkpala/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code -->
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -135,7 +135,7 @@ Week 01 → Success Mindset
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ completed | ✅ solved | https://www.linkedin.com/posts/mary-okpalaa_devops-micro-internship-dmi-cohort-3-share-7474109606718447616-ESD2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkX59IBR1k59lsyT8jNbWlITBOX04EfGHU | https://medium.com/@okpalachiamakamary/internship-0cccc5e5aa49?sharedUserId=okpalachiamakamary |
 | 01 | Success Mindset | ✅ completed | ✅ solved| — | https://medium.com/@okpalachiamakamary/what-my-2-0-version-looked-like-b92da2a6ce2f?sharedUserId=okpalachiamakamary |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ completed | ✅ solved | — | https://medium.com/@okpalachiamakamary/reflection-week-2-a5bd39a0bd3f?sharedUserId=okpalachiamakamary |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

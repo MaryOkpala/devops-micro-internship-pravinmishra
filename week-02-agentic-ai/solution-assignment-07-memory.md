@@ -15,13 +15,7 @@ In this assignment, you will explore Claude Code’s memory system. You will loc
 ## Goal
 
 Discover exactly where Claude Code stores memory for this project.
-
-### Evidence
-
-#### Screenshot 1 — Memory file path shown by Claude
-
-Add your screenshot here.
-
+![W2A6T1](screenshots/W2A7T1.png)
 ---
 
 # Task 2 — Give Claude Information to Remember
@@ -29,19 +23,11 @@ Add your screenshot here.
 ## Goal
 
 Teach Claude three specific facts about the project and instruct it to save them to the memory file.
-
-### Evidence
-
-#### Screenshot 2 — Claude confirming the memory was saved
-
-Add your screenshot here.
-
+![W2A6T1](screenshots/W2A7T2.png)
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
-
-Add your screenshot here.
-
+![W2A6T1](screenshots/W2A7T3.png)
 ---
 
 # Task 3 — Close the Session Completely
@@ -49,11 +35,7 @@ Add your screenshot here.
 ## Goal
 
 Terminate the current Claude Code session and restart it to ensure memory is the only persistent context source.
-
-### Evidence
-
-#### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
-
+![W2A6T1](screenshots/W2A7T4.png)
 Add your screenshot here.
 
 ---
@@ -63,19 +45,11 @@ Add your screenshot here.
 ## Goal
 
 Run three tests that prove Claude remembers what you told it — without you saying it again in the new session.
-
-### Evidence
-
-#### Screenshot 5 — Claude recalling hero section colors
-
-Add your screenshot here.
-
+![W2A6T1](screenshots/W2A7T5.png)
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
-
-Add your screenshot here.
-
+![W2A6T1](screenshots/W2A7T6.png)
 ---
 
 # Submission Instructions
@@ -96,22 +70,19 @@ Paste your Linkedin post link here:
 ---
 
 ## GitHub Repository URL
-
-Paste your forked repository URL here:
-
-`__________________________`
+`https://github.com/MaryOkpala/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
 # Completion Checklist
 
-- [ ] Memory file path identified (Screenshot 1)
-- [ ] Memory successfully saved via prompt (Screenshot 2)
-- [ ] `MEMORY.md` shows stored content (Screenshot 3)
-- [ ] Fresh session opened after full restart (Screenshot 4)
-- [ ] Claude recalled hero colors correctly (Screenshot 5)
-- [ ] Claude refused JavaScript request based on memory (Screenshot 6)
-- [ ] All screenshots added and committed to GitHub repo
+- [✅] Memory file path identified (Screenshot 1)
+- [✅] Memory successfully saved via prompt (Screenshot 2)
+- [✅] `MEMORY.md` shows stored content (Screenshot 3)
+- [✅] Fresh session opened after full restart (Screenshot 4)
+- [✅] Claude recalled hero colors correctly (Screenshot 5)
+- [✅] Claude refused JavaScript request based on memory (Screenshot 6)
+- [✅] All screenshots added and committed to GitHub repo
 - [ ] Linkedin post created.
 
 ---
